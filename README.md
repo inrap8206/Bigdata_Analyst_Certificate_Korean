@@ -28,6 +28,7 @@
 https://www.datamanim.com/dataset/99_pandas/pandasMain.html \
 
 
-- 작업형2 1문제(40점) : 모델링 연습문제 풀이 반복 \
+- 작업형2 1문제(40점) : 주요코드 정리 및 모델링 연습문제 풀이 반복 \
+01_주요코드정리.ipynb \
 02_실기_작업형_연습문제풀이.ipynb
 
